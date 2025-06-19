@@ -82,6 +82,12 @@ Input/Output: Q.16 To Q.20
 ![](image/16.png)
 
 
+Input/Output: Q.21 To Q.25
+
+![](image/17.png)
+
+
+
 
 
 
