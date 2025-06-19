@@ -129,6 +129,12 @@ File Handling: Q.26 To Q.30
 
 
 
+Syntax: Q.6 To Q.10
+
+![](image/26.png)
+
+
+
 
 
 
