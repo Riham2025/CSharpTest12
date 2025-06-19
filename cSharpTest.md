@@ -61,6 +61,9 @@ Arrays : Q.1 To Q.5
 ![](image/12.png)
 
 
+Input/Output: Q.1 To Q.5
+
+![](image/13.png)
 
 
 
