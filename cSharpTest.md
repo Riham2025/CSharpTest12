@@ -18,7 +18,11 @@ Functions : Q.11 To Q.15
 
 Functions : Q.16 To Q.20
 
-![](image/3.png)
+![](image/4.png)
+
+Functions : Q.21 To Q.25
+
+![](image/5.png)
 
 
 
