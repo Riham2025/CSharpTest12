@@ -30,5 +30,19 @@ Functions : Q.26 To Q.30
 ![](image/6.png)
 
 
+Loops : Q.1 To Q.5
+
+![](image/7.png)
+
+
+
+
+
+
+
+
+
+
+
 
 
