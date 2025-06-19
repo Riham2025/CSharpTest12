@@ -25,5 +25,10 @@ Functions : Q.21 To Q.25
 ![](image/5.png)
 
 
+Functions : Q.26 To Q.30
+
+![](image/6.png)
+
+
 
 
