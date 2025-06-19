@@ -45,6 +45,12 @@ Arrays : Q.1 To Q.5
 ![](image/9.png)
 
 
+ Data Types : Q.1 To Q.5
+
+![](image/10.png)
+
+
+
 
 
 
