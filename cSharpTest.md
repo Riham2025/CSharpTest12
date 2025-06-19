@@ -66,6 +66,11 @@ Input/Output: Q.1 To Q.5
 ![](image/13.png)
 
 
+Input/Output: Q.6 To Q.10
+
+![](image/14.png)
+
+
 
 
 
