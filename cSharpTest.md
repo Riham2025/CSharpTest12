@@ -35,6 +35,11 @@ Loops : Q.1 To Q.5
 ![](image/7.png)
 
 
+Arrays : Q.1 To Q.5
+
+![](image/8.png)
+
+
 
 
 
