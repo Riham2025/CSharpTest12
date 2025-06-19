@@ -51,6 +51,9 @@ Arrays : Q.1 To Q.5
 
 
 
+ Operators : Q.1 To Q.5
+
+![](image/11.png)
 
 
 
