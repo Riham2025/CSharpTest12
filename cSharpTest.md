@@ -112,6 +112,11 @@ File Handling: Q.16 To Q.20
 ![](image/22.png)
 
 
+File Handling: Q.21 To Q.25
+
+![](image/23.png)
+
+
 
 
 
