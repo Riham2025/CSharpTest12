@@ -40,6 +40,10 @@ Arrays : Q.1 To Q.5
 ![](image/8.png)
 
 
+ Exceptions : Q.1 To Q.5
+
+![](image/9.png)
+
 
 
 
