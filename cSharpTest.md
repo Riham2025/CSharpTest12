@@ -92,6 +92,11 @@ Input/Output: Q.26 To Q.30
 ![](image/18.png)
 
 
+ File Handling: Q.1 To Q.5
+
+![](image/19.png)
+
+
 
 
 
