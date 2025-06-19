@@ -123,6 +123,11 @@ File Handling: Q.26 To Q.30
 ![](image/24.png)
 
 
+ Syntax: Q.1 To Q.5
+
+![](image/25.png)
+
+
 
 
 
